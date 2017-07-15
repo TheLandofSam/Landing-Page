@@ -61,11 +61,11 @@
 }
 
 .aspect {
-  height: 260px;
+  height: 450px;
 }
 
 .inlay {
-  height: 220px;
+  height: 410px;
   margin-top: 3%;
 }
 
@@ -77,6 +77,10 @@
 
 .pic {
   max-width: 55%;
+}
+
+.card-img-top {
+  max-width: 100%;
 }
 
 .proj-text {
