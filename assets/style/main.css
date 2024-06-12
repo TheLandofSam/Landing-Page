@@ -23,7 +23,7 @@
 }
 
 .black {
-  background-color: #000000;
+  background-color: #CFDBD5;
 }
 
 .raspb {
@@ -57,7 +57,7 @@
 .header {
   height: 200px;
   border-bottom: solid 3px;
-  border-color: #000000;
+  border-color: #CFDBD5;
 }
 
 .aspect {
